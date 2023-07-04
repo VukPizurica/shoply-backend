@@ -1,3 +1,16 @@
+HOW TO START THE APP:
+The Code for both the frontend and backend is on GitHub:
+backend: https://github.com/VukPizurica/shoply-backend/tree/master
+frontend: https://github.com/VukPizurica/shoply-frontend
+
+Frontend is available on https://shoplyapplication.netlify.app/
+Backend needs to be downloaded from GitHub repository and started on localhost 8080. SQL server needs to be running and there has to be a connection with uername root and password root. 
+
+Note: During deployment of frontend, Page Not Found Error ocassionally happens, in that case just return to the HomePage. This doesn't happen when frontend is running on localhost.
+
+Technologies used: Spring Boot + React 
+
+DESCRIPTION:
 Shoply is a platform for online shopping that works on the principle of uploading product postings. Sellers can post their products, and users can browse through postings to find products they are interested in purchasing.
 
 There are two user roles in the application: BUYER and SELLER.
@@ -20,3 +33,5 @@ Some usernames and passwords to try out:
 | ajackson47     | 123456       | jessanderson21    | Password123       |
 | oliviasmith10  | Password123  | ethanrodriguez8   | 1234567           |
 | emilym9        | Abcde12345   | brandongarcia2023 | 123456789         |
+
+
