@@ -4,7 +4,7 @@ backend: https://github.com/VukPizurica/shoply-backend/tree/master<br>
 frontend: https://github.com/VukPizurica/shoply-frontend<br>
 
 Frontend is available on https://shoplyapplication.netlify.app/
-Backend needs to be downloaded from GitHub repository and started on localhost 8080. SQL server needs to be running and there has to be a connection with uername root and password root. 
+Backend needs to be downloaded from GitHub repository and started on localhost 8080. SQL server needs to be running and there has to be a connection with username root and password root. 
 
 Note: During deployment of frontend, Page Not Found Error ocassionally happens, in that case just return to the HomePage. This doesn't happen when frontend is running on localhost.
 
