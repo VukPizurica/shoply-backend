@@ -1,4 +1,4 @@
-package org.eclipse.shoply;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,10 +10,10 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 
 @SpringBootApplication
-public class ShoplyApplication extends SpringBootServletInitializer {
+public class MainClass extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
-		 SpringApplication.run(ShoplyApplication.class, args);
+		 SpringApplication.run(MainClass.class, args);
 	}
 
 }
