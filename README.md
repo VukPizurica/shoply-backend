@@ -9,8 +9,7 @@ Backend needs to be downloaded from GitHub repository and started on localhost 8
 Note: During deployment of frontend, Page Not Found Error ocassionally happens, in that case just return to the HomePage. This doesn't happen when frontend is running on localhost.
 
 Technologies used: Spring Boot + React 
-
-
+<br><br>
 DESCRIPTION:
 <br>
 Shoply is a platform for online shopping that works on the principle of uploading product postings. Sellers can post their products, and users can browse through postings to find products they are interested in purchasing.
