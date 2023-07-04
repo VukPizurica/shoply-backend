@@ -1,4 +1,4 @@
-HOW TO START THE APP:
+HOW TO START THE APP:<br>
 The Code for both the frontend and backend is on GitHub:<br>
 backend: https://github.com/VukPizurica/shoply-backend/tree/master<br>
 frontend: https://github.com/VukPizurica/shoply-frontend<br>
