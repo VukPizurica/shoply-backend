@@ -1,7 +1,7 @@
 HOW TO START THE APP:
-The Code for both the frontend and backend is on GitHub:
-backend: https://github.com/VukPizurica/shoply-backend/tree/master
-frontend: https://github.com/VukPizurica/shoply-frontend
+The Code for both the frontend and backend is on GitHub:<br>
+backend: https://github.com/VukPizurica/shoply-backend/tree/master<br>
+frontend: https://github.com/VukPizurica/shoply-frontend<br>
 
 Frontend is available on https://shoplyapplication.netlify.app/
 Backend needs to be downloaded from GitHub repository and started on localhost 8080. SQL server needs to be running and there has to be a connection with uername root and password root. 
