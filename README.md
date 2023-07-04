@@ -1,4 +1,5 @@
 HOW TO START THE APP:<br>
+Technologies used: Spring Boot + React <br>
 The Code for both the frontend and backend is on GitHub:<br>
 backend: https://github.com/VukPizurica/shoply-backend/tree/master<br>
 frontend: https://github.com/VukPizurica/shoply-frontend<br>
@@ -8,7 +9,7 @@ Backend needs to be downloaded from GitHub repository and started on localhost 8
 
 Note: Deployment of frontend caused Page Not Found Error to ocassionally happen while using the app, when it happens just return to the HomePage. This doesn't happen when frontend is running on localhost.
 
-Technologies used: Spring Boot + React <br>
+
 
 DESCRIPTION:
 <br>
