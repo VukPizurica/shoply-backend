@@ -1,6 +1,5 @@
 C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\org\eclipse\shoply\support\PostDtoToPost.java
 C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\org\eclipse\shoply\service\impl\UserDetailsServiceImpl.java
-C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\org\eclipse\shoply\ShoplyApplication.java
 C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\org\eclipse\shoply\app\ShoplyApplication.java
 C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\org\eclipse\shoply\model\Review.java
 C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\org\eclipse\shoply\repository\SaleRepository.java
@@ -34,6 +33,7 @@ C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\org\eclipse\shoply\mo
 C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\org\eclipse\shoply\service\impl\JpaSaleService.java
 C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\org\eclipse\shoply\support\UserToUserDto.java
 C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\org\eclipse\shoply\web\controller\SaleController.java
+C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\com\example\MainClass.java
 C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\org\eclipse\shoply\model\Sale.java
 C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\org\eclipse\shoply\service\impl\JpaUserService.java
 C:\Users\Vuk\OneDrive\Desktop\Shoply backend\src\main\java\org\eclipse\shoply\support\SaleToSaleDto.java
