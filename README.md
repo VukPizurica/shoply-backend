@@ -11,7 +11,8 @@ Note: During deployment of frontend, Page Not Found Error ocassionally happens, 
 Technologies used: Spring Boot + React 
 
 
-DESCRIPTION:<br>
+DESCRIPTION:
+
 Shoply is a platform for online shopping that works on the principle of uploading product postings. Sellers can post their products, and users can browse through postings to find products they are interested in purchasing.
 
 There are two user roles in the application: BUYER and SELLER.
