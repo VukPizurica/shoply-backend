@@ -7,7 +7,7 @@ backend: https://github.com/VukPizurica/shoply-backend/tree/master<br>
 frontend: https://github.com/VukPizurica/shoply-frontend<br>
 
 Frontend is available on https://shoplyapplication.netlify.app/ <br>
-I didn't manage to deploy backend so it needs to be downloaded from GitHub repository and started on localhost 8080. SQL server needs to be running with a connection: username root and password root. When using Eclipse or other editors, you may encounter some apparent bugs. These are most likely related to spelling errors, so you can safely proceed with the project launch without any concerns.  
+I didn't manage to deploy backend so it needs to be downloaded from GitHub repository and started on localhost 8080. SQL server needs to be running on localhost:3306 with a connection: username root and password root. When using Eclipse or other editors, you may encounter some apparent bugs. These are most likely related to spelling errors, so you can safely proceed with the project launch without any concerns.  
 
 Note: Deployment of frontend caused Page Not Found Error to ocassionally happen while using the app, when it happens just return to the HomePage. This doesn't happen when frontend is running on localhost.
 
